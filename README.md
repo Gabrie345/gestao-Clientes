@@ -1,5 +1,8 @@
 # 🦷 Sistema de Gestão para Consultórios Odontológicos
 
+Protótipo
+https://sorrindo-cadastro-pacientes.lovable.app/
+
 Este projeto tem como objetivo principal facilitar a **gestão de consultórios odontológicos**, com foco inicial na organização da agenda de atendimentos. A aplicação foi pensada para oferecer uma experiência fluida tanto em **PCs quanto em tablets**, sendo totalmente **responsiva**.
 
 ## 🎯 Escopo do Projeto
